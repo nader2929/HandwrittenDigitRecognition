@@ -1,0 +1,2 @@
+model_checkpoint_path: "nnmodel"
+all_model_checkpoint_paths: "nnmodel"
